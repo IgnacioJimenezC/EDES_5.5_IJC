@@ -1,0 +1,4 @@
+package Pedido
+
+class Pedido {
+}

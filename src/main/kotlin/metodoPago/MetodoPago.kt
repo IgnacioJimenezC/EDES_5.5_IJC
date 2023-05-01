@@ -1,0 +1,4 @@
+package metodoPago
+
+interface MetodoPago {
+}

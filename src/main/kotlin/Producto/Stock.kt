@@ -1,0 +1,4 @@
+package Producto
+
+class Stock {
+}
